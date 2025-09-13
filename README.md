@@ -13,14 +13,10 @@ HR dashboard built in Power BI to visualize employee distribution, retention ris
 - Sales employees earn the highest average monthly income compared to other departments.
 
 ## 📂 Files in this Repository
-- `HR_Analytics.pbix` → Power BI dashboard file
-- `HR_Data.csv` → Sample dataset (anonymized)
-- `Dashboard_Screenshot.png` → Preview of the report
+- HR_Analytics power bi.pdf → Power BI dashboard file
+- HR_Data.csv → Sample dataset (anonymized)
 
 ## 🚀 How to Use
-1. Download the `.pbix` file.
+1. Download the .pdf file.
 2. Open it in **Power BI Desktop**.
 3. Connect to the included dataset or replace with your own.
-
-## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
